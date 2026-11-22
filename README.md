@@ -33,7 +33,7 @@ This project acts as an analytics consultant for SCS. It answers three questions
 - **Financial analysis:** revenue, variable and fixed costs, profit, net and contribution margins, and scale-up scenarios for the 16 oz product
 
 ## Repository Contents
-| File | Description |
+| File  Description |
 | `Second City Soda Volt Rush- 16 oz Scaling Analytics Project.pptx` | Final presentation with findings and recommendations |
  `Volt_Rush_Market_Test_Analysis_Workbook.xlsx` | Workbook with the survey data, market test sales, regression, hypothesis tests, financials and strategic notes
 

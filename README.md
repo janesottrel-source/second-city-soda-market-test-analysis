@@ -1,5 +1,6 @@
-# Second-City-Soda-Market-Testing-and-Scale-Up-Analysis-for-Volt-Rush-Energy-Line
-Consulting-style analytics project for Second City Soda's Volt Rush energy drink. Uses Excel, survey analysis, multiple regression, ANOVA, t-tests, forecasting and financial modeling on an 8-week market test to recommend what to scale, where to launch, and how to promote it.
+# Second City Soda: Market Testing and Scale-Up Analysis for Volt Rush Energy Line
+
+**[View the presentation (PDF)](second-city-soda-market-test-analysis-presentation.pdf)**
 
 ## Overview
 Second City Soda (SCS), a mid-sized soft drink manufacturer based in Chicago, is entering the energy drink market. It ran an 8-week sales market test of three products (Volt Rush 12 oz, Volt Rush Zero Sugar 12 oz, and Volt Rush 16 oz) across 19 Chicago neighborhoods.
@@ -33,9 +34,11 @@ This project acts as an analytics consultant for SCS. It answers three questions
 - **Financial analysis:** revenue, variable and fixed costs, profit, net and contribution margins, and scale-up scenarios for the 16 oz product
 
 ## Repository Contents
-| File  Description |
-| Final presentation with findings and recommendations |
-| Workbook with the survey data, market test sales, regression, hypothesis tests, financials and strategic notes |
+| File | Description |
+
+| `second-city-soda-market-test-analysis-presentation.pdf` | Presentation with findings and recommendations (viewable in the browser) |
+| `second-city-soda-market-test-analysis-presentation.pptx` | Editable PowerPoint version of the presentation |
+| `second-city-soda-market-test-analysis workbook.xlsx` | Excel workbook with the market test sales, customer survey, regression, financials, hypothesis tests, forecasting results and strategic notes |
 
 ## Author
 Jane Sottrel, MBA candidate (Analytics), DePaul University Kellstadt Graduate School of Business

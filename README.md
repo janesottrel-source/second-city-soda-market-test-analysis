@@ -34,8 +34,8 @@ This project acts as an analytics consultant for SCS. It answers three questions
 
 ## Repository Contents
 | File  Description |
-| `Second City Soda Volt Rush- 16 oz Scaling Analytics Project.pptx` | Final presentation with findings and recommendations |
- `Volt_Rush_Market_Test_Analysis_Workbook.xlsx` | Workbook with the survey data, market test sales, regression, hypothesis tests, financials and strategic notes
+| Final presentation with findings and recommendations |
+| Workbook with the survey data, market test sales, regression, hypothesis tests, financials and strategic notes |
 
 ## Author
 Jane Sottrel, MBA candidate (Analytics), DePaul University Kellstadt Graduate School of Business
